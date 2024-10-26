@@ -1,2 +1,3 @@
-# www
-www.visionicam.com
+# www.visionicam.com
+
+VIdeo Detection Analysis and Annotaions in Realtime
